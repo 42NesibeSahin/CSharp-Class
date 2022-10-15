@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\bin\Debug\CSharp_Clas.exe.config
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\bin\Debug\CSharp_Clas.exe
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\bin\Debug\CSharp_Clas.pdb
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\obj\Debug\CSharp_Clas.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\obj\Debug\CSharp_Clas.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\obj\Debug\CSharp_Clas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\obj\Debug\CSharp_Clas.exe
+C:\Users\LENOVO\source\repos\CSharp_Clas\CSharp_Clas\obj\Debug\CSharp_Clas.pdb
